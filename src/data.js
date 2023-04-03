@@ -6,7 +6,6 @@ export const CVData = {
       image: 'https://media.licdn.com/dms/image/C5603AQEGyIKcVOcMxQ/profile-displayphoto-shrink_800_800/0/1643173796077?e=1685577600&v=beta&t=wLzciw1hvJw7PLmpvqhlDf2Funiq5Svig0bLhHVENfY',
       contacts: [
         { type: 'email', value: 'isaac.alejandrorb@gmail.com' },
-        { type: 'phone', value: '+52 5517707896' },
         { type: 'location', value: 'Mexico city' },
         { type: 'linkedin', value: 'https://www.linkedin.com/in/alejandro-rivera-96aba4206/' },
         { type: 'github', value: 'https://github.com/RiveraTheCreator' },      ]
